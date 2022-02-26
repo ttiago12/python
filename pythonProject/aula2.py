@@ -43,4 +43,10 @@ print ('Soma : = {soma} '
                 divisao = divisao,
                 multiplicacao = multiplicacao))
 
+#INTERAGIR COM USUARIO
+c = input('primeiro valor :')
+d = input ('segundo valor :')
+# converter o valor recebido para inteiro  // d = int (input ('segundo valor :'))
+
+
 
