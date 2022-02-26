@@ -26,4 +26,11 @@ print(resto)
 x = '1'
 ## o x era uma string , na linha abaixo para realizar a soma foi passado para inteiro
 soma2 = int(x) + 1
-print ('SOMA2=' + str(soma2))
+print ('SOMA2= ' + str(soma2))
+
+##usando o format , contatena idependente do tipo
+print ('SOMA-FORMAT = {}. subtracao-FORMAT = {} ' .format(soma,subtracao))
+
+#usando alias no format
+
+
