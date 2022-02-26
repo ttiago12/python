@@ -31,6 +31,16 @@ print ('SOMA2= ' + str(soma2))
 ##usando o format , contatena idependente do tipo
 print ('SOMA-FORMAT = {}. subtracao-FORMAT = {} ' .format(soma,subtracao))
 
-#usando alias no format
+#usando alias no format dentro de {}
+print("\nUTILIZANDO ALIAS")
+print ('Soma : = {soma} '
+       '\n Subtração = {subtracao} '
+       '\n Multiplicao = {multiplicacao} '
+       '\n Divisao = {divisao} '
+       '\n Resto : {resto}'.format(soma = soma,
+                subtracao = subtracao,
+                resto = resto,
+                divisao = divisao,
+                multiplicacao = multiplicacao))
 
 
