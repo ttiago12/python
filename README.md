@@ -6,4 +6,5 @@ Curso disponibilizado pela DioInnovattion e ministrado por Rafaeeel Galleani
 -Aula3 if elif comparacao
 -Aula4 for while range(gerar numeros aletorios)
 -Aula5 lista tuplas 
--Aula6 conjuntos
+-Aula6 Conjuntos
+-Aula7 Metodos e funções
