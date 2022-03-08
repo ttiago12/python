@@ -8,3 +8,7 @@ Curso disponibilizado pela DioInnovattion e ministrado por Rafael Galleani
 -Aula5 lista tuplas 
 -Aula6 Conjuntos
 -Aula7 Metodos e funções
+-Aula8 Utilizar e interagir com modulos , funções anonimas
+
+
+

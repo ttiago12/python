@@ -34,10 +34,12 @@ class Calculadora:
         return self.valor_a / self.valor_b
 
 ## instanciando uma classe
-calculadora = Calculadora(10,2)
-print('IMPRIMINDO O VALOR {}=Valor_a'.format(calculadora.valor_a))
-print('IMPRIMINDO O VALOR {}=Valor_b'.format(calculadora.valor_b))
-print('IMPRIMINDO O VALOR {}=ValorSoma'.format(calculadora.soma()))
-print('IMPRIMINDO O VALOR {}=ValorSubtracao'.format(calculadora.subtr()))
-print('IMPRIMINDO O VALOR {}=ValorDivisao'.format(calculadora.div()))
-print('IMPRIMINDO O VALOR {}=ValorMuliplicacao'.format(calculadora.mult()))
+if __name__ == '__main__':
+
+    calculadora = Calculadora(10,2)
+    print('IMPRIMINDO O VALOR {}=Valor_a'.format(calculadora.valor_a))
+    print('IMPRIMINDO O VALOR {}=Valor_b'.format(calculadora.valor_b))
+    print('IMPRIMINDO O VALOR {}=ValorSoma'.format(calculadora.soma()))
+    print('IMPRIMINDO O VALOR {}=ValorSubtracao'.format(calculadora.subtr()))
+    print('IMPRIMINDO O VALOR {}=ValorDivisao'.format(calculadora.div()))
+    print('IMPRIMINDO O VALOR {}=ValorMuliplicacao'.format(calculadora.mult()))
