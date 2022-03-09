@@ -1,3 +1,6 @@
+##faça um for em x, onde cada palavra da lista ficará armazenada
+##em x e utiliza o len(para contar as letras) que possui no x
+## naquele momento , e isso é retornado como uma lista
 def contador_letras(listas_palavras):
     contador = []
     for x in listas_palavras:
