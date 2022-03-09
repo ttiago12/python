@@ -1,8 +1,7 @@
-#formar de importar modulos
-from click._compat import term_len
-
+#forma de importar modulos
 from aula7_televisao import Televisao
 from aula7_calculadora1 import Calculadora
+from aula8_contador_letras import contador_letras
 ##CASO ALGUEM CHAMAR DE FORA ESTAS AÇÕES NÃO SERÃO EXECUTADAS
 if __name__ == '__main__':
 
@@ -10,7 +9,9 @@ if __name__ == '__main__':
     print(televisao.ligada)
     televisao.power()
     print(televisao.ligada)
-
+    lista = ['vaca','camelo','iguana']
+    print('TOTAL LETRAS')
+    print(contador_letras(lista))
 
 ##fazendo simplesmente isso e não sem a utilização do main
 ##tudo seria retornado
