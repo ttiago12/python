@@ -9,6 +9,7 @@ Curso disponibilizado pela DioInnovattion e ministrado por Rafael Galleani
 -Aula6 Conjuntos
 -Aula7 Metodos e funções
 -Aula8 Utilizar e interagir com modulos , funções anonimas
+-Aula9 Manipulando arquivos
 
 
 
