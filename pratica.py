@@ -1,3 +1,10 @@
 class File:
+
+
     def criar(nomeArquivo):
-        arquivo = open()
+        nomeArquivo = input('NOME DO ARQUIVO= ')
+        arquivo = open(nomeArquivo,'x')
+
+file = File()
+
+file.criar()
