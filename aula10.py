@@ -19,6 +19,7 @@ def trabalhando_com_datetime():
     print(data_criada)
     print(data_criada.strftime('%c'))
     data_string = '01/01/2019'
+    
     ##possoacresentar hora data_string = '01/01/2019 12:20:57'
     #converter data_convertida = datetime.strptime(data_string,'%d/%m/%Y %H:%M:%S')
     data_convertida = datetime.strptime(data_string,'%d/%m/%Y')
