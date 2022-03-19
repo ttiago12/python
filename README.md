@@ -11,7 +11,8 @@ Curso disponibilizado pela DioInnovattion e ministrado por Rafael Galleani
 -Aula8 Utilizar e interagir com modulos , funções anonimas
 -Aula9 Manipulando arquivos
 -Aula10 trabalhando com datetime
--Aula11 Tratatamento de exeções , importancias e costumizações
+-Aula11 Tratatamento de exeções , importancias e costumizações de   execeções
+-Aula12 Pacotes ; conceitos e utilização 
 
 
 
